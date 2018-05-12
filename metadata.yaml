@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '25705'
     url: http://www.gutenberg.org/2009/agents/25705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23143#Sancti-Hilarii--Epistola-Ad-Abram-Filiam-Suam--Circa-Finem-Anni-558-Missa.-Patrologiae-Cursus_
 gutenberg_issued: '2007-10-21'
 gutenberg_type: Text
 identifiers:
